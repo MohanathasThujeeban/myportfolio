@@ -11,7 +11,7 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Moahanathas Thujeeban </span>
             from <span className="purple"> vavuniya srilanka.</span>
             <br />
-            I am currently employed as a software developer at Juspay.
+            I am studying in ITUM.
             <br />
             I have pursuing National Diploma in Information Technology at ITUM
             <br />
